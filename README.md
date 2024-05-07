@@ -14,7 +14,7 @@ These code snippets assume running on ubuntu server native (not docker or umbrel
 ## bash auto completion for cln
 ```
 curl https://raw.githubusercontent.com/urza/cln/main/cln.bash-completion > cln.bash-completion
-sudo cp cln.bash-completion 
+sudo cp cln.bash-completion /etc/bash_completion.d/cln.bash-completion
 ```
 restart your terminal session
 then test: 
