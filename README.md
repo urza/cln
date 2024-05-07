@@ -18,4 +18,4 @@ sudo cp cln.bash-completion /etc/bash_completion.d/cln.bash-completion
 ```
 restart your terminal session
 then test: 
-`cln get[tab tab]` should offer you `getinfo getlog` and few others
+`cln set[tab tab]` should offer you `setchannel      setconfig       setleaserates   setpsbtversion` and few others
