@@ -17,4 +17,5 @@ curl https://raw.githubusercontent.com/urza/cln/main/cln.bash-completion > cln.b
 sudo cp cln.bash-completion 
 ```
 restart your terminal session
-then test: cln get[tab tab] should offer you `getinfo getlog ` and few others
+then test: 
+`cln get[tab tab]` should offer you `getinfo getlog` and few others
