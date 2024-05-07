@@ -16,6 +16,8 @@ These code snippets assume running on ubuntu server native (not docker or umbrel
 curl https://raw.githubusercontent.com/urza/cln/main/cln.bash-completion > cln.bash-completion
 sudo cp cln.bash-completion /etc/bash_completion.d/cln.bash-completion
 ```
-restart your terminal session
-then test: 
-`cln set[tab tab]` should offer you `setchannel      setconfig       setleaserates   setpsbtversion` and few others
+restart your terminal session<br>
+then test: <br>
+`cln set[tab tab]` <br>
+should offer you <br>
+`setchannel setconfig setleaserates setpsbtversion` and few others
