@@ -1,6 +1,7 @@
 # core lightning bits
 
-These code snippets assume running on ubuntu server native (not docker or umbrell and such).
+* These code snippets assume running on ubuntu server native (not docker or umbrell and such).
+* CLN has [great documentation](https://docs.corelightning.org/docs/home)
 
 ## ✨ create alias "cln" for "lightning-cli" 
 * if lightning-cli is in PATH:
