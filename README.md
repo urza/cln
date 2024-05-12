@@ -29,7 +29,7 @@ should offer you <br>
 `cln setchannel short_chan_id base_fee ppm_fee`
 
 | PPM  | % |
-| ------------- | ------------- |
+| ------: | ------: |
 | 10 ppm  | 0.001%  |
 | 100 ppm  | 0.01%  |
 | 500 ppm  | 0.05%  |
