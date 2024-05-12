@@ -24,4 +24,15 @@ should offer you <br>
 
 <img alt="Example of completion with FZF" src="https://github.com/urza/cln/assets/189804/b52c006e-e67b-4c72-9039-3615cd1cfd52" width=200/>
 
+## ✨ ppm to % table
+(understand your fees)
+`cln setchannel short_chan_id base_fee ppm_fee`
+
+| PPM  | % |
+| ------------- | ------------- |
+| 10 ppm  | 0.001%  |
+| 100 ppm  | 0.01%  |
+| 500 ppm  | 0.05%  |
+| 1000 ppm  | 0.1%  |
+| 10_000 ppm  | 1%  |
 
