@@ -37,3 +37,9 @@ should offer you <br>
 | 1000 ppm  | 0.1%  |
 | 10_000 ppm  | 1%  |
 
+## ✨ amount in sats
+Millisatoshis are annoying. Luckily in most places when working with lightning-cli you can provide amount as sats or even btc using "sat" or "btc" suffix. 
+For example:
+`cln invoice 50000sat label_test_77 description_test`
+
+
