@@ -20,4 +20,7 @@ restart your terminal session<br>
 then test: <br>
 `cln set[tab tab]` <br>
 should offer you <br>
-`setchannel setconfig setleaserates setpsbtversion` and few others
+`setchannel setconfig setleaserates setpsbtversion`
+
+![Example of completion with FZF](https://github.com/urza/cln/assets/189804/b52c006e-e67b-4c72-9039-3615cd1cfd52)
+
